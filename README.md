@@ -49,8 +49,6 @@ I am particularly interested in:
 
 Technologies: Python, FastAPI, LangGraph, MCP, A2A Communication, Docker, SQL
 
----
-
 ### ECG-Based Hypoglycemia Detection
 
 - Developed deep learning models on ECG time-series data.
@@ -58,8 +56,6 @@ Technologies: Python, FastAPI, LangGraph, MCP, A2A Communication, Docker, SQL
 - Validated performance using Leave-One-Patient-Out cross-validation.
 
 Technologies: PyTorch, Temporal Modeling, Model Evaluation
-
----
 
 ### EMG-Based Hand Gesture Recognition
 
