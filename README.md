@@ -1,7 +1,7 @@
 # Marc Mazraany
 
 Machine Learning and AI Engineer focused on building production-grade AI systems with measurable business impact.  
-Computer Engineering student at the Lebanese American University. Dean’s Honors List (Fall 2023 – Spring 2025).
+Computer Engineering student at the Lebanese American University.
 
 ---
 
