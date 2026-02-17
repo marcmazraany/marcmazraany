@@ -54,7 +54,7 @@ Technologies: Python, FastAPI, LangGraph, MCP, A2A Communication, Docker, SQL
 ### ECG-Based Hypoglycemia Detection
 
 - Developed deep learning models on ECG time-series data.
-- Addressed class imbalance using advanced architectures (CNNs, LSTMs, attention).
+- Addressed class imbalance using advanced architectures (CNNs, LSTMs, attention), and Data Augmentation methods (VAT, GAN).
 - Validated performance using Leave-One-Patient-Out cross-validation.
 
 Technologies: PyTorch, Temporal Modeling, Model Evaluation
@@ -82,4 +82,4 @@ Technologies: Python, Feature Engineering, SVM, Random Forest
 ## Contact
 
 Email: mazraanyymarc@gmail.com  
-LinkedIn: [Insert LinkedIn URL]  
+LinkedIn: www.linkedin.com/in/marcmazraany
