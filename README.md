@@ -11,7 +11,7 @@ I design and deploy AI systems that move beyond experimentation into structured,
 
 I am particularly interested in:
 - Generative AI systems and LLM orchestration
-- Retrieval-Augmented Generation (RAG)
+- Machine Learning and Computer Vision
 - AI reliability and evaluation
 - Backend AI service deployment
 
